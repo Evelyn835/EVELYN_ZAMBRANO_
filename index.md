@@ -1,9 +1,10 @@
-## Bienvenido a la pagina de Logica Matematica 
+## **<strong>Bienvenido a la pagina de Logica Matematica</strong> ** 
 Evelyn Zambrano
 ## **Este proyecto fue posible gracias  a las redes neuronales**.
   <img src="https://sites.google.com/site/mayinteligenciartificial/_/rsrc/1470337417111/unidad-4-redes-neuronales/3.jpg">
 ## *Que son las redes neuronales*.
 son sistemas computacionales, inspirados en las neuronas que constituyen el cerebro de los animales, dotando a los ordenadores de inteligencia artificial. Están formadas por unidades básicas llamadas neuronas que se conectan entre sí formando la red neuronal.
+
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
