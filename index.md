@@ -10,8 +10,7 @@ son sistemas computacionales, inspirados en las neuronas que constituyen el cere
      -Red neuronal recurrente (RNN)
      -Redes de base radial (RBF)
      
-     
-   ## *Red neuronal Multicapa*
+## *Red neuronal Multicapa*
    
  <img src="https://www.diegocalvo.es/wp-content/uploads/2017/07/perceptron-multicapa.png">
  
