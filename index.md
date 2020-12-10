@@ -1,3 +1,7 @@
+## <b> : <strong>Bold Este proyecto fue posible gracias  a las redes neuronales Here</strong>.</H1>.
+  <img src="https://sites.google.com/site/mayinteligenciartificial/_/rsrc/1470337417111/unidad-4-redes-neuronales/3.jpg">
+  
+
 ## Bienvenido a la pagina de Logica Matematica 
 Evelyn Zambrano
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
