@@ -1,5 +1,10 @@
-## <H5><strong>Este proyecto fue posible gracias  a las redes neuronales</strong>.</H5>
+## <H1><strong>Este proyecto fue posible gracias  a las redes neuronales</strong>.</H1>
   <img src="https://sites.google.com/site/mayinteligenciartificial/_/rsrc/1470337417111/unidad-4-redes-neuronales/3.jpg">
+##  Que son las redes neuroanles
+  
+ 
+ 
+
   
 
 ## Bienvenido a la pagina de Logica Matematica 
