@@ -6,6 +6,7 @@ Evelyn Zambrano
 son sistemas computacionales, inspirados en las neuronas que constituyen el cerebro de los animales, dotando a los ordenadores de inteligencia artificial. Están formadas por unidades básicas llamadas neuronas que se conectan entre sí formando la red neuronal.
 ## *Cuál es su relacion con la teoria de grafos*
 Son uno de los componentes fundamentales de la analítica social, relaciones entre personas y más recientemente se han utilizado sus propiedades para incrementar la eficiencia en la lucha contra el blanqueo de capitales y el fraude bancario.
+<img src="https://revistadigital.inesem.es/informatica-y-tics/files/2017/03/Sin-t%C3%ADtulo-1.png">
 
 
 
