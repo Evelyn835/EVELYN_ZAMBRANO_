@@ -10,23 +10,27 @@ son sistemas computacionales, inspirados en las neuronas que constituyen el cere
      -Red neuronal recurrente (RNN)
      -Redes de base radial (RBF)
      
- ## *Red neuronal Multicapa*
+     
+   *Red neuronal Multicapa*
  <img src="https://www.diegocalvo.es/wp-content/uploads/2017/07/perceptron-multicapa.png">
+ 
  es una generalización de la red neuronal monocapa, la diferencia reside en que mientras la red neuronal monocapa está compuesta por una capa de neuronas de entrada y una capa de neuronas de salida, esta dispone de un conjunto de capas intermedias (capas ocultas) entre la capa de entrada y la de salida.
+ 
  ## *Red neuronal Convolucional(CNN)*
  <img src="https://www.diegocalvo.es/wp-content/uploads/2017/07/red-neuronal-convolucional-arquitectura.png">
-La principal diferencia de la red neuronal convolucional con el perceptrón multicapa viene en que cada neurona no se une con todas y cada una de las capas siguientes sino que solo con un subgrupo de ellas (se especializa)
+
+La principal diferencia de la red neuronal convolucional con el perceptrón multicapa viene en que cada neurona no se une con todas y cada una de las capas siguientes sino que solo con un subgrupo de ellas (se especializa).
+
  ## *Red neuronal recurrente (RNN)*
   <img src="https://www.diegocalvo.es/wp-content/uploads/2017/07/red-neuronal-recurrente.png">
+
 Las redes neuronales recurrentes no tienen una estructura de capas, sino que permiten conexiones arbitrarias entre las neuronas, incluso pudiendo crear ciclos, con esto se consigue crear la temporalidad, permitiendo que la red tenga memoria.
+
   ## *Redes de base radial (RBF)*
   <img src="https://www.diegocalvo.es/wp-content/uploads/2017/07/Redes-de-base-radial.png">
-calculan la salida de la función en función de la distancia a un punto denominado centro. La salida es una combinación lineal de las funciones de activación radiales utilizadas por las neuronas individuales.
- 
- 
- 
-    
 
+calculan la salida de la función en función de la distancia a un punto denominado centro. La salida es una combinación lineal de las funciones de activación radiales utilizadas por las neuronas individuales.
+    
 ## *Cuál es su relacion con la teoria de grafos*
 Son uno de los componentes fundamentales de la analítica social, relaciones entre personas y más recientemente se han utilizado sus propiedades para incrementar la eficiencia en la lucha contra el blanqueo de capitales y el fraude bancario.
 <img src="https://revistadigital.inesem.es/informatica-y-tics/files/2017/03/Sin-t%C3%ADtulo-1.png">
