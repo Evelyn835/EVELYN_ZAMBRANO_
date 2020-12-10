@@ -7,6 +7,16 @@ son sistemas computacionales, inspirados en las neuronas que constituyen el cere
 ## *Cuál es su relacion con la teoria de grafos*
 Son uno de los componentes fundamentales de la analítica social, relaciones entre personas y más recientemente se han utilizado sus propiedades para incrementar la eficiencia en la lucha contra el blanqueo de capitales y el fraude bancario.
 
+
+
+
+
+
+
+
+
+
+
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   intent="WELCOME"
