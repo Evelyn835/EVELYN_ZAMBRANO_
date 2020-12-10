@@ -33,12 +33,13 @@ Las redes neuronales recurrentes no tienen una estructura de capas, sino que per
   <img src="https://www.diegocalvo.es/wp-content/uploads/2017/07/Redes-de-base-radial.png">
 
 calculan la salida de la función en función de la distancia a un punto denominado centro. La salida es una combinación lineal de las funciones de activación radiales utilizadas por las neuronas individuales.
-
-<video src="https://www.youtube.com/watch?v=6vwfT3-mBBw" width="640" height="480"></video>
     
 ## *Cuál es su relacion con la teoria de grafos*
 Son uno de los componentes fundamentales de la analítica social, relaciones entre personas y más recientemente se han utilizado sus propiedades para incrementar la eficiencia en la lucha contra el blanqueo de capitales y el fraude bancario.
 <img src="https://revistadigital.inesem.es/informatica-y-tics/files/2017/03/Sin-t%C3%ADtulo-1.png">
+
+<video src=<"https://www.youtube.com/watch?v=6vwfT3-mBBw">.
+
 
 
 
