@@ -9,6 +9,7 @@ son sistemas computacionales, inspirados en las neuronas que constituyen el cere
      -Red neuronal Convolucional(CNN)
      -Red neuronal recurrente (RNN)
      -Redes de base radial (RBF)
+     
  ## *Red neuronal Multicapa*
  <img src="https://www.diegocalvo.es/wp-content/uploads/2017/07/perceptron-multicapa.png">
  es una generalización de la red neuronal monocapa, la diferencia reside en que mientras la red neuronal monocapa está compuesta por una capa de neuronas de entrada y una capa de neuronas de salida, esta dispone de un conjunto de capas intermedias (capas ocultas) entre la capa de entrada y la de salida.
