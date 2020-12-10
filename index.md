@@ -1,7 +1,7 @@
-## <strong>Este proyecto fue posible gracias  a las redes neuronales</strong>.
+## **Este proyecto fue posible gracias  a las redes neuronales**.
 ## <H1>Este proyecto fue posible gracias  a las redes neuronales</H1>
   <img src="https://sites.google.com/site/mayinteligenciartificial/_/rsrc/1470337417111/unidad-4-redes-neuronales/3.jpg">
-## <strong> Que son las redes neuronales</strong>.
+## *Que son las redes neuronales*.
 ## <H1> Que son las redes neuronales</H1>
 son sistemas computacionales, inspirados en las neuronas que constituyen el cerebro de los animales, dotando a los ordenadores de inteligencia artificial. Están formadas por unidades básicas llamadas neuronas que se conectan entre sí formando la red neuronal.
   
