@@ -5,7 +5,7 @@ Evelyn Zambrano
 ## *Que son las redes neuronales*.
 son sistemas computacionales, inspirados en las neuronas que constituyen el cerebro de los animales, dotando a los ordenadores de inteligencia artificial. Están formadas por unidades básicas llamadas neuronas que se conectan entre sí formando la red neuronal.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Colored_neural_network_es.svg/300px-Colored_neural_network_es.svg.png">
-  *Cuál es _su relacion_ con la teoria de grafos*
+## *Cuál es su relacion con la teoria de grafos*
 
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
