@@ -19,7 +19,7 @@ son sistemas computacionales, inspirados en las neuronas que constituyen el cere
  
  es una generalización de la red neuronal monocapa, la diferencia reside en que mientras la red neuronal monocapa está compuesta por una capa de neuronas de entrada y una capa de neuronas de salida, esta dispone de un conjunto de capas intermedias (capas ocultas) entre la capa de entrada y la de salida.
  
-##  *Red neuronal Convolucional (CNN)
+## *Red neuronal Convolucional (CNN)
  
  <img src="https://www.diegocalvo.es/wp-content/uploads/2017/07/red-neuronal-convolucional-arquitectura.png">
 
