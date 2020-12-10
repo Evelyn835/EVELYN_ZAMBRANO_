@@ -5,7 +5,7 @@ Evelyn Zambrano
 ## *Que son las redes neuronales*.
 son sistemas computacionales, inspirados en las neuronas que constituyen el cerebro de los animales, dotando a los ordenadores de inteligencia artificial. Están formadas por unidades básicas llamadas neuronas que se conectan entre sí formando la red neuronal.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6vwfT3-mBBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6vwfT3-mBBw?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Clasificación de redes neuronales artificiales**
      -Red neuronal Multicapa
